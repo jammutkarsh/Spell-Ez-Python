@@ -1,0 +1,5 @@
+random
+gtts
+playsound
+os
+urllib3
