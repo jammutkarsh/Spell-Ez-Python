@@ -3,7 +3,7 @@
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 
-> A simple TTS app to improve your spelling by typing it again and again and again, unitl you get memorize it.
+> A simple TTS app to improve your spelling by typing it again and again and again, until you get memorize it.
 
 ## Install Dependencies
 
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ```sh
 
-comming soon
+python3 run.py
 
 ```
 
