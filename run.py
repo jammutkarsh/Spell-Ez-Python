@@ -27,3 +27,4 @@ while not end_of_game:
         print("Correct Spelling\n")
     else:
         print("Incorrect Spelling\n")
+        print(f"Correct: {spell_out}\n")
