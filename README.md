@@ -12,6 +12,14 @@
 pip install -r requirements.txt
 
 ```
+#### Mac dependency 
+To run playsound on macOS, PythonObjective C module need to be installed
+
+```sh
+
+pip install pyobjc
+
+```
 ## Usage
 
 ```sh
