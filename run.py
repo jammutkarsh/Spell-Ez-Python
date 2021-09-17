@@ -1,7 +1,6 @@
 import random as r
 import tts  # tts.py
 import urllib3
-from os import system
 
 # To disable the error below.
 #   InsecureRequestWarning: Unverified HTTPS request is being made to host 'translate.google.com'.
