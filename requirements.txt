@@ -1,5 +1,9 @@
-random
-gtts
-playsound
-os
-urllib3
+certifi==2021.5.30
+charset-normalizer==2.0.5
+click==8.0.1
+gTTS==2.2.3
+idna==3.2
+playsound==1.3.0
+requests==2.26.0
+six==1.16.0
+urllib3==1.26.6

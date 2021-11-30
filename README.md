@@ -3,8 +3,9 @@
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 
-> A simple TTS app to improve your spelling by typing it again and again and again, unitl you get memorize it.
+> A simple TTS app to improve your spelling by typing it again and again and again, until you get memorize it.
 
+> For best experience use [Pycharm](https://www.jetbrains.com/pycharm/download). 
 ## Install Dependencies
 
 ```sh
@@ -12,11 +13,12 @@
 pip install -r requirements.txt
 
 ```
-## Usage
+#### Mac dependency 
+To run playsound on macOS, PythonObjective C module need to be installed
 
 ```sh
 
-comming soon
+pip install pyobjc
 
 ```
 
@@ -32,8 +34,9 @@ comming soon
 
 [comment]: <> (* [Twitter]&#40;https://twitter.com/palvishusingh&#41;)
 
-## Show your support
-Give a ⭐️ if this project helped you!
+[comment]: <> (## Show your support)
+
+[comment]: <> (Give a ⭐️ if this project helped you!)
 
 
 # Copyright
